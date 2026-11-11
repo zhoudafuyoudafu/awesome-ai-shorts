@@ -187,8 +187,9 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 |------|---------|-------------|
 | [OpenAI Sora](https://sora.com/) | $20/mo (ChatGPT Plus) | Narrative-driven AI video generation |
 | [Google Veo 3](https://deepmind.google/models/veo/) | From $7.99/mo (AI Plus); 4K on Ultra | 4K + native audio generation |
-| [Runway Gen-4](https://runwayml.com/) | From $12/mo | Most granular creative controls |
 | [Pika](https://pika.art/) | Free (80 credits); from $8/mo | Fast 5-10 second video generation |
+| [Rhyvello](https://ai-rap-video-maker.com/) | From $7.99 (credit packs) | Web: solo/duo rap videos from ideas/photos with original lyrics, beats, and AI vocals |
+| [Runway Gen-4](https://runwayml.com/) | From $12/mo | Most granular creative controls |
 | [Kling AI](https://klingai.com/) | Free tier; from $6.99/mo | Native audio, extendable clips via chaining |
 | [HeyGen](https://www.heygen.com/) | Free (3 videos/mo); from $29/mo | AI avatars with 175+ language lip sync |
 | [Synthesia](https://www.synthesia.io/) | Free (10 min/mo); from $18/mo | AI avatars, SCORM compliance on higher tiers |
