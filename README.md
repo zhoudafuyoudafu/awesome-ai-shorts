@@ -121,10 +121,11 @@ Tools that use AI to identify compelling moments in long-form videos and automat
 | [Filmora](https://filmora.wondershare.com/) | $9.99/mo; Perpetual $99.99 | Desktop, iOS, Android | 100+ AI features, 5M+ stock media, perpetual license |
 | [DaVinci Resolve](https://www.blackmagicdesign.com/products/davinciresolve) | Free; Studio $295 one-time | Desktop | Hollywood-grade color grading, 90% features free |
 | [Shotcut](https://www.shotcut.org/) | Free (open-source) | Desktop | Full FFmpeg codec support, no paywalls |
-| [InShot](https://inshot.com/) | Free with ads; Pro ~$3.99/mo | iOS, Android | Best mobile editing for quick social content |
 | [VN Editor](https://www.vlognow.me/) | Free; Pro $7.99/mo | iOS, Android, macOS | No watermark on free tier |
 | [LumaFusion](https://luma-touch.com/) | $29 one-time | iOS, Android, macOS | Most powerful mobile editor, multi-track timeline |
 | [Gling](https://www.gling.ai/) | Free editor; from $10/mo | Desktop, Web | Auto-removes silences and filler words for YouTubers |
+| [Genjutsu AI](https://genjutsuai.dev/) | Freemium | Web | Browser-based editor for motion transfer, person/outfit swaps, and clip restyling. |
+| [InShot](https://inshot.com/) | Free with ads; Pro ~$3.99/mo | iOS, Android | Best mobile editing for quick social content |
 
 ---
 
